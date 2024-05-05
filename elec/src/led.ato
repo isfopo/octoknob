@@ -1,0 +1,9 @@
+component Led:
+  footprint = "adafruit:LED3535"
+  mpn = "neopixel"
+
+  signal dout ~ pin 1 # data out
+  signal vss ~ pin 2 # ground
+  signal din ~ pin 3 # data in
+  signal vdd ~ pin 4 # voltage in
+

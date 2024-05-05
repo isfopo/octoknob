@@ -1,3 +1,3 @@
 # octoknob
 
-Wooohooo a new package!
+8 knob controller for Ableton Live.

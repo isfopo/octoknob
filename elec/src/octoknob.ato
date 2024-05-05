@@ -1,2 +1,9 @@
+from "./ledring.ato" import LedRing
+from "./encoder.ato" import Encoder
+
 module Octoknob:
     signal gnd
+
+    ring = new LedRing
+
+    encoder = new Encoder

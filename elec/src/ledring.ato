@@ -1,0 +1,20 @@
+from "./led.ato" import Led
+
+"""
+module description
+"""
+module LedRing:
+  led_1 = new Led
+  led_2 = new Led
+  led_3 = new Led
+  led_4 = new Led
+
+  led_5 = new Led
+  led_6 = new Led
+  led_7 = new Led
+  led_8 = new Led
+
+  led_9 = new Led
+  led_10 = new Led
+  led_11 = new Led
+  led_12 = new Led
